@@ -1,2 +1,3 @@
 libzmq3-dev
 cmake
+netcat
